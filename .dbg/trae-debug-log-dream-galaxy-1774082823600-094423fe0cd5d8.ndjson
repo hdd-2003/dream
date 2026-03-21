@@ -1,0 +1,529 @@
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774082823877}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774082823880}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774082823882}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774082823884}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"record","hasResult":false,"isSubmitting":false,"ts":1774082825409}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_start","step":"record","dreamType":"memory","dreamTextLen":2,"ts":1774082831020}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"ritual","hasResult":false,"isSubmitting":true,"ts":1774082831023}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_start","dreamType":"memory","dreamTextLen":2,"ts":1774082831025}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_start","url":"https://api.longcat.chat/anthropic","model":"LongCat-Flash-Chat","max_tokens":900,"temperature":0.7,"dreamType":"memory","dreamTextLen":2,"timeoutMs":12000,"ts":1774082831027}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_timeout","ms":12002,"ts":1774082843029}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_error","error":"signal is aborted without reason","name":"AbortError","ms":12003,"ts":1774082843031}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_url_ready","ms":12053,"bgUrlLen":90987,"seedLen":31,"ts":1774082843076}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_done_set_result","ms":12054,"ts":1774082843078}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_done","step":"result","ms":12059,"ts":1774082843080}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"result","hasResult":true,"isSubmitting":false,"ts":1774082843083}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_preload_ok","ms":12062,"w":1600,"h":1200,"ts":1774082843086}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_img_load","srcLen":90987,"w":1600,"h":1200,"ts":1774082843438}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"galaxy","hasResult":true,"isSubmitting":false,"ts":1774082847537}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"result","hasResult":true,"isSubmitting":false,"ts":1774082852189}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_img_load","srcLen":90987,"w":1600,"h":1200,"ts":1774082852512}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"record","hasResult":true,"isSubmitting":false,"ts":1774082855936}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":true,"isSubmitting":false,"ts":1774082861625}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774082909431}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774082909886}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774082909887}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774082909888}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774082909888}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"pagehide","step":"prologue","ts":1774082911677}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"record","hasResult":false,"isSubmitting":false,"ts":1774082912658}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_start","step":"record","dreamType":"sweet","dreamTextLen":3,"ts":1774082917573}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"ritual","hasResult":false,"isSubmitting":true,"ts":1774082917575}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_start","dreamType":"sweet","dreamTextLen":3,"ts":1774082917577}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_start","url":"https://api.longcat.chat/anthropic","model":"LongCat-Flash-Chat","max_tokens":900,"temperature":0.7,"dreamType":"sweet","dreamTextLen":3,"timeoutMs":12000,"ts":1774082917578}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_ok","ms":6346,"keys":["id","type","role","model","content","stop_reason","usage"],"ts":1774082923936}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_parse_ok","ms":6347,"parsedKeys":["title","summary","interpretation","suggestion","keyword","color","gradient","imagePrompt"],"hasImagePrompt":true,"ts":1774082923937}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_url_ready","ms":6380,"bgUrlLen":90659,"seedLen":31,"ts":1774082923955}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_done_set_result","ms":6381,"ts":1774082923956}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_done","step":"result","ms":6385,"ts":1774082923957}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"result","hasResult":true,"isSubmitting":false,"ts":1774082923959}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_preload_ok","ms":6387,"w":1600,"h":1200,"ts":1774082923977}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_img_load","srcLen":90659,"w":1600,"h":1200,"ts":1774082924276}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"result","ts":1774083276662}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774083277226}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774083277227}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774083277228}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774083277230}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"pagehide","step":"result","ts":1774083279404}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"record","hasResult":false,"isSubmitting":false,"ts":1774083280342}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_start","step":"record","dreamType":"sweet","dreamTextLen":5,"ts":1774083287818}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"ritual","hasResult":false,"isSubmitting":true,"ts":1774083287821}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_start","dreamType":"sweet","dreamTextLen":5,"ts":1774083287823}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_start","url":"https://api.longcat.chat/anthropic","model":"LongCat-Flash-Chat","max_tokens":900,"temperature":0.7,"dreamType":"sweet","dreamTextLen":5,"timeoutMs":12000,"ts":1774083287825}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_ok","ms":7296,"keys":["id","type","role","model","content","stop_reason","usage"],"ts":1774083295123}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_parse_ok","ms":7297,"parsedKeys":["title","summary","interpretation","suggestion","keyword","color","gradient","imagePrompt"],"hasImagePrompt":true,"ts":1774083295124}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_url_ready","ms":7406,"bgUrlLen":111299,"seedLen":23,"ts":1774083295227}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_done_set_result","ms":7407,"ts":1774083295228}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_done","step":"result","ms":7412,"ts":1774083295229}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"result","hasResult":true,"isSubmitting":false,"ts":1774083295232}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_preload_ok","ms":7413,"w":1600,"h":1200,"ts":1774083295238}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"bg_img_load","srcLen":111299,"w":1600,"h":1200,"ts":1774083295569}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"card_bg_img_load","srcLen":111299,"w":1600,"h":1200,"ts":1774083422053}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"result","ts":1774084051662}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"result","ts":1774084060952}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774084146224}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774084146225}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084160813}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084161457}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084166296}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084166746}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084169184}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084169365}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084173149}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084173368}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084182949}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084184046}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"pagehide","step":"prologue","ts":1774084244525}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084244531}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"reload","navRedirectCount":0,"ts":1774084244923}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774084244924}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"reload","navRedirectCount":0,"ts":1774084244929}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774084244932}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"reload","navRedirectCount":0,"ts":1774084326265}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774084326266}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084351484}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084380737}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084389539}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084420722}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084429629}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084446093}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084452879}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084456446}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084462861}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084468538}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084713938}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084718037}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084733696}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084742481}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084751026}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084752714}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084810202}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084816511}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084831819}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084832503}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084834619}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084837002}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084888841}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084892846}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084908925}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084926610}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084941707}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084944396}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774084983398}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774084991121}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085001204}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085016886}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085034141}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085036962}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085069408}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085071747}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085089840}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085095180}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085099059}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085104612}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085119457}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085119615}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085137907}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085143957}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085172895}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085178649}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085295458}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085300715}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085322941}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085347695}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085393989}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085402392}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085640309}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085656415}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085667606}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085725433}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085907268}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774085939404}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774085978384}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086005486}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086031038}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086033435}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086252235}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086253579}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086261690}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086290656}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086322759}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086330829}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086393589}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086410096}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086461287}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086465544}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086504455}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086508967}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086512039}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086512769}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086517103}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086518074}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086539473}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086560317}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086590555}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086592877}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086606337}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086609493}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086620554}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086628427}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086728204}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086737196}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086743037}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086744215}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086774272}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086796253}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086799440}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086800617}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086826535}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086865438}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086887502}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086894187}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774086903553}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774086908771}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774087184062}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774087202969}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774087231798}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774087252365}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774087256314}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774087270178}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774087355762}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774087372449}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774088658584}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"reload","navRedirectCount":0,"ts":1774088685354}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774088685355}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725285}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725287}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725292}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725296}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725301}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725304}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725312}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725319}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725324}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725332}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725341}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725343}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725373}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725375}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725390}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725424}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725441}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725450}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725459}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725461}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725482}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725547}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725609}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725612}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725615}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725623}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725625}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725630}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725636}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725640}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725647}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725650}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725654}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725656}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725743}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725744}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725746}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725747}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725748}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725778}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725779}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725787}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725803}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725804}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725806}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725817}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725820}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725827}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725829}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725831}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725843}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725852}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725854}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725865}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725870}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725872}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725878}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725882}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725891}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725937}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725975}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725988}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725992}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088725999}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726000}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726002}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726003}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726016}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726020}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726021}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726029}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726029}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726030}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726033}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726034}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726038}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726040}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726043}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726047}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726047}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726048}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726051}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726054}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726056}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726071}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726073}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726077}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726079}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726080}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726082}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726085}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726087}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726089}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726090}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726094}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726096}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726099}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726101}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726103}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726105}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726108}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726109}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726110}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726111}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726112}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726114}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726115}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726117}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726118}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726119}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726121}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726121}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726122}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726123}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726124}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726126}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726127}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726128}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726129}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726130}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726131}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726132}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726133}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726134}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726135}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726136}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726138}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726139}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726140}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726141}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726142}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726144}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726146}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726147}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726148}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726149}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726150}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726151}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726151}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726153}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726154}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726155}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726158}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726160}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726165}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726166}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726168}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726168}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726169}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726173}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726175}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726178}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726181}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726184}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726189}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726191}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726192}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726193}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726194}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726197}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726199}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726200}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726201}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726203}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726204}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726204}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726206}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726210}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726213}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726213}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726217}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726218}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726219}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726220}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726222}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726223}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726224}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726227}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726228}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726230}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726232}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726233}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726235}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726236}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726238}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726239}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726240}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726241}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726242}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726243}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726245}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726247}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726248}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726249}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726249}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726250}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726253}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726255}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726258}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726259}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726261}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726264}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726269}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726272}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726274}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726275}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726277}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726278}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726279}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726280}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726281}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726282}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726283}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726284}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726285}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726286}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726287}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726288}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726289}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726296}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726299}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726301}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726303}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726305}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726306}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726307}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726308}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726314}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726315}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726320}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726322}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726323}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726325}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726329}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726330}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726349}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726352}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726354}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726365}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"reload","navRedirectCount":0,"ts":1774088726372}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774088726372}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726379}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726408}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726410}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726413}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"reload","navRedirectCount":0,"ts":1774088726427}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774088726433}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726440}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726453}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726460}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726465}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726471}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726494}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726500}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726510}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726514}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726523}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726527}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726533}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726537}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726563}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726582}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726584}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726592}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726605}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726609}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726611}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726613}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726615}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726617}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726620}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726622}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726626}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726631}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726662}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726694}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726697}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726702}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726703}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726705}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"unhandled_rejection","reason":"send was called before connect","ts":1774088726708}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774088951225}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774088951227}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774088951228}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774088951229}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"record","hasResult":false,"isSubmitting":false,"ts":1774088968972}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_start","step":"record","dreamType":"sweet","dreamTextLen":2,"ts":1774088973327}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"ritual","hasResult":false,"isSubmitting":true,"ts":1774088973332}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_start","dreamType":"sweet","dreamTextLen":2,"ts":1774088973335}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_start","url":"https://api.longcat.chat/anthropic","model":"LongCat-Flash-Chat","max_tokens":900,"temperature":0.7,"dreamType":"sweet","dreamTextLen":2,"timeoutMs":12000,"ts":1774088973337}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_ok","ms":8135,"keys":["id","type","role","model","content","stop_reason","usage"],"ts":1774088981470}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_parse_ok","ms":8136,"parsedKeys":["title","summary","interpretation","suggestion","keyword","color","gradient","imagePrompt"],"hasImagePrompt":true,"ts":1774088981471}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_done_set_result","ms":8139,"ts":1774088981473}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_done","step":"result","ms":8144,"ts":1774088981474}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"result","hasResult":true,"isSubmitting":false,"ts":1774088981476}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"galaxy","hasResult":true,"isSubmitting":false,"ts":1774088984777}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":true,"isSubmitting":false,"ts":1774088989512}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"galaxy","hasResult":true,"isSubmitting":false,"ts":1774088991978}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774090889207}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"galaxy","ts":1774090890600}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774090894321}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"galaxy","ts":1774090899994}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774090917177}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"galaxy","ts":1774090921907}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774090928692}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"galaxy","ts":1774090976064}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774090979310}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"galaxy","ts":1774090984005}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774090987833}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774091448051}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774091448052}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774091448053}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774091448053}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774091449783}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774091449800}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"pagehide","step":"prologue","ts":1774091450648}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774091450661}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"galaxy","ts":1774091450664}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"pagehide","step":"galaxy","ts":1774091451580}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"galaxy","ts":1774091451586}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"visible","step":"prologue","ts":1774091451591}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"record","hasResult":false,"isSubmitting":false,"ts":1774091453529}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_start","step":"record","dreamType":"memory","dreamTextLen":6,"ts":1774091459876}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"ritual","hasResult":false,"isSubmitting":true,"ts":1774091459879}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_start","dreamType":"memory","dreamTextLen":6,"ts":1774091459880}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_start","url":"https://api.longcat.chat/anthropic","model":"LongCat-Flash-Chat","max_tokens":900,"temperature":0.7,"dreamType":"memory","dreamTextLen":6,"timeoutMs":12000,"ts":1774091459884}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_ok","ms":9904,"keys":["id","type","role","model","content","stop_reason","usage"],"ts":1774091469790}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"dream_api_parse_ok","ms":9905,"parsedKeys":["title","summary","interpretation","suggestion","keyword","color","gradient","imagePrompt"],"hasImagePrompt":true,"ts":1774091469792}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"analyze_done_set_result","ms":9908,"ts":1774091469793}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"submit_done","step":"result","ms":9914,"ts":1774091469796}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"result","hasResult":true,"isSubmitting":false,"ts":1774091469800}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"app_mount","href":"http://localhost:5173/","navType":"navigate","navRedirectCount":0,"ts":1774091877357}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"step_change","step":"prologue","hasResult":false,"isSubmitting":false,"ts":1774091877358}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"pagehide","step":"prologue","ts":1774091891379}
+{"sessionId":"dream-galaxy-1774082823600-094423fe0cd5d8","ev":"visibility","state":"hidden","step":"prologue","ts":1774091891382}

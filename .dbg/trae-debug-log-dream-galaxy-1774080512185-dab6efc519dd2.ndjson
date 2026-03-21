@@ -1,0 +1,3 @@
+{"sessionId":"dream-galaxy-1774080512185-dab6efc519dd2","ev":"submit_start","step":"record","dreamType":"nightmare","dreamTextLen":5,"ts":1774081593553}
+{"sessionId":"dream-galaxy-1774080512185-dab6efc519dd2","ev":"analyze_start","dreamType":"nightmare","dreamTextLen":5,"ts":1774081593555}
+{"sessionId":"dream-galaxy-1774080512185-dab6efc519dd2","ev":"dream_api_start","url":"https://api.longcat.chat/anthropic","model":"LongCat-Flash-Chat","max_tokens":900,"temperature":0.7,"dreamType":"nightmare","dreamTextLen":5,"timeoutMs":12000,"ts":1774081593556}
