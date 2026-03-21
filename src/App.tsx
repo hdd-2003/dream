@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { flushSync } from 'react-dom';
 import { AnimatePresence, motion } from 'framer-motion';
-import { Star, Sparkles, Moon, Cloud, ChevronLeft, ArrowRight, Sparkle, Plus, Minus, RotateCcw, Volume2, VolumeX } from 'lucide-react';
+import { Star, Sparkles, Moon, Cloud, ChevronLeft, Sparkle, Plus, Minus, RotateCcw, Volume2, VolumeX } from 'lucide-react';
 import { ParticleField } from './components/ParticleField';
 import { reportTraeDebug } from './utils/telemetry';
 import { callDreamAPI } from './services/apiClient';
