@@ -1,73 +1,54 @@
-# React + TypeScript + Vite
+# 梦境星河 🌌
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 记录一段梦境，点亮一颗星辰
 
-Currently, two official plugins are available:
+一款精致的梦境记录与解读应用。把你的梦变成星辰，在星系中回溯每一次梦境的痕迹。
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ 核心功能
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📝 记录梦境
+输入你的梦境内容，选择梦境基调（美梦 / 噩梦 / 奇幻 / 回忆），让AI帮你解读。
 
-## Expanding the ESLint configuration
+### 🔮 AI 解读
+AI 会用诗意化的语言，为你解析梦境背后的含义，带来温暖而深刻的自我觉察体验。
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### 🌟 星河可视化
+每段梦境都会化作一颗独特的星辰，坠入你的专属星系。拖拽浏览、缩放探索，点击星辰重温旧梦。
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 🎨 梦境基调
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+| 类型 | 颜色 | 含义 |
+|------|------|------|
+| 美梦 ⭐ | 琥珀色 | 温馨、治愈 |
+| 噩梦 🌙 | 紫色 | 恐惧、挑战 |
+| 奇幻 ✨ | 青蓝渐变 | 自由、创造 |
+| 回忆 ☁️ | 粉色 | 思念、眷恋 |
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🎵 沉浸式体验
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- 动态粒子星空背景
+- 鼠标触碰粒子会散开
+- 可开关的背景音乐
+- 星辰呼吸式闪烁动画
+
+---
+
+## 🛠 技术栈
+
+React 19 + TypeScript + Vite + Tailwind CSS + Framer Motion
+
+---
+
+## 🌐 在线访问
+
+已部署至 Netlify：[https://dreamwh.netlify.app/](https://dreamwh.netlify.app/)
+
+---
+
+**记录梦境，凝结星辰** ✨
